@@ -1,0 +1,14 @@
+build/
+managed_components/
+sdkconfig
+sdkconfig.old
+.vscode/
+.idea/
+.DS_Store
+*.bin
+*.elf
+*.map
+*.log
+*.pyc
+__pycache__/
+.pytest_cache/
